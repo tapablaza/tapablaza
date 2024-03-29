@@ -10,7 +10,7 @@ El siguiente repositorio contendrá los avances de los futuros proyectos del Lab
 <br>
 
 
-## Algo de información acerca de Maximiliano Quintero <img src="https://www.fightersgeneration.com/characters/dio-super.gif" width="30px">
+## Algo de información acerca de Tomás Apablaza <img src="https://www.fightersgeneration.com/characters/dio-super.gif" width="30px">
 
 <br>
 
